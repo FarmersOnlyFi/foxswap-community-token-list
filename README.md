@@ -1,4 +1,4 @@
-# @VenomProtocol/venomswap-community-token-list
+# @FarmersOnlyFi/foxswap-community-token-list
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/FarmersOnlyFi/foxswap-community-token-list/actions?query=workflow%3ATests)
 
